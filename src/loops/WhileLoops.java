@@ -1,15 +1,10 @@
 package loops;
 
-public class ForLoops {
+public class WhileLoops {
 
 	public static void main(String[] args) {
+		// TODO Auto-generated method stub
 
-		
-		
-		
-		
-		
-		
 	}
 
 }
